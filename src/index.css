@@ -1,0 +1,32 @@
+
+#root {
+  width: 100%;
+}
+
+.profile {
+  max-width: 500px;
+  margin: 80px auto;
+  padding: 30px;
+  text-align: center;
+  background-color: lightblue;
+  border-radius: 16px;
+  font-family: Arial, sans-serif;
+}
+
+.profile h1 {
+  color: darkblue;
+}
+
+.profile p {
+  color: #334155;
+  font-size: 18px;
+}
+
+.profile button {
+  padding: 12px 24px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
